@@ -1,2 +1,0 @@
-# chat-cloud-config
-configs
